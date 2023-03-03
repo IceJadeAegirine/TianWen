@@ -7,3 +7,6 @@
   不会可以百度<br>
   在游戏内输入 /en 中文字符串 即可将发出的字符串自动转换为英文<br>
   输入 /trans 即可将他人内容翻译为中文,再次输入关闭该功能<br>
+  效果如下图所示<br>
+  ![image](https://user-images.githubusercontent.com/126032058/222759570-3f9466ec-2dc1-469f-a53d-d177fbc5dcbe.png)<br>
+
