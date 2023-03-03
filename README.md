@@ -4,7 +4,7 @@
   将文件解压放入 /Starbound/win64 文件夹内
 ## 如何卸载?
   将tianWen.dll文件删除即可<br>
-  如果出现导致游戏崩溃等问题,删除即可
+  如果出现导致游戏崩溃等问题,卸载即可
 ## 如何使用翻译功能?
   在 http://api.fanyi.baidu.com/ 上注册翻译api,后把AppID和key填入translator.py内对应位置即可<br>
   不会可以百度<br>
